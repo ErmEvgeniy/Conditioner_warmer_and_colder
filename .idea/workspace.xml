@@ -22,8 +22,19 @@
     <list default="true" id="accd7b81-10ef-4273-a184-c09871936576" name="Default Changelist" comment="">
       <change afterPath="$PROJECT_DIR$/../Conditioner-warmer-and-colder/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Conditioner-warmer-and-colder/src/main/java/netology/Conditioner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/conditioner_warmer_and_colder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/netology/Conditioner.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/netology/ConditionerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/netology/Conditioner.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/netology/ConditionerTest.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.name" afterDir="false" />
@@ -41,7 +52,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1iB0EUrnmkvMzAURVqWB5KfUuYo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
